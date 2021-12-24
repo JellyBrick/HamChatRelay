@@ -33,5 +33,5 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: Kookie-${{ matrix.java }}
+        name: HamChatRelay-${{ matrix.java }}
         path: app/build/libs/shadow-*.jar
