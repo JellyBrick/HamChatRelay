@@ -6,7 +6,7 @@ import org.jmailen.gradle.kotlinter.tasks.LintTask
 plugins {
     kotlin("jvm") version "1.7.0"
     application
-    id("org.jmailen.kotlinter") version "3.10.0"
+    id("org.jmailen.kotlinter") version "3.11.1"
     id("com.github.johnrengelman.shadow") version "7.1.2"
 }
 
