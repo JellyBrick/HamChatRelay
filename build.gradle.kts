@@ -20,7 +20,7 @@ repositories {
 dependencies {
     implementation("be.zvz:KotlinInside:1.14.6")
     implementation("org.fusesource.jansi:jansi:1.18")
-    implementation("ch.qos.logback:logback-classic:1.2.11")
+    implementation("ch.qos.logback:logback-classic:1.4.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
 }
